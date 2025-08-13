@@ -1,0 +1,6 @@
+# ignore everything .venv
+.venv/
+# ignore everything __pycache__
+__pycache__/
+# ignore ruff cache
+.ruff_cache/
